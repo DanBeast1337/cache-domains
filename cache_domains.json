@@ -40,7 +40,7 @@
 			"description": "CDN for hirez",
 			"domain_files": ["hirez.txt"]
 		},
-				{
+		{
 			"name": "minecraft",
 			"description": "CDN for minecraft",
 			"domain_files": ["minecraft.txt"]
